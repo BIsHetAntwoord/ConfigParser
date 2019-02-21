@@ -1,0 +1,6 @@
+a: "b"
+a.d.b: -1.3e-08
+a.d.b.c: "hal\'l\no"
+b: "c"
+d.e.f: 2
+q: 1

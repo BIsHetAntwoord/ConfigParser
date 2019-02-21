@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1542305207 source:d:\bestanden\data\codes\programeren\c++\projecten\configparser\config\except.cpp
+	"config/except.hpp"
+	<sstream>
+
+1542304943 d:\bestanden\data\codes\programeren\c++\projecten\configparser\config\except.hpp
+	<stdexcept>
+
+1542312593 source:d:\bestanden\data\codes\programeren\c++\projecten\configparser\main.cpp
+	"config/parser.hpp"
+	"config/writer.hpp"
+	<iostream>
+
+1542312383 d:\bestanden\data\codes\programeren\c++\projecten\configparser\config\parser.hpp
+	<fstream>
+	<stack>
+	<vector>
+	<string>
+	<memory>
+	"config/except.hpp"
+	"config/config.hpp"
+
+1542312466 d:\bestanden\data\codes\programeren\c++\projecten\configparser\config\config.hpp
+	<map>
+	<memory>
+	"config/values.hpp"
+
+1542312514 source:d:\bestanden\data\codes\programeren\c++\projecten\configparser\config\config.cpp
+	"config/config.hpp"
+
+1542312397 source:d:\bestanden\data\codes\programeren\c++\projecten\configparser\config\parser.cpp
+	"config/parser.hpp"
+	<sstream>
+	<cstdint>
+
+1542311805 d:\bestanden\data\codes\programeren\c++\projecten\configparser\config\values.hpp
+	<string>
+	<cstdint>
+	<sstream>
+
+1542312043 source:d:\bestanden\data\codes\programeren\c++\projecten\configparser\config\values.cpp
+	"config/values.hpp"
+	"config/except.hpp"
+
+1542311822 source:d:\bestanden\data\codes\programeren\c++\projecten\configparser\config\writer.cpp
+	"config/writer.hpp"
+	"config/except.hpp"
+	"config/config.hpp"
+
+1542311225 d:\bestanden\data\codes\programeren\c++\projecten\configparser\config\writer.hpp
+	<fstream>
+
